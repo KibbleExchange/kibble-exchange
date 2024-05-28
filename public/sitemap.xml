@@ -1,0 +1,23 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://kibble.exchange/</loc>
+</url>
+<url>
+<loc>https://app.kibble.exchange/</loc>
+</url>
+<url>
+<loc>https://app.kibble.exchange/swap</loc>
+</url>
+<url>
+<loc>https://app.kibble.exchange/liquidity</loc>
+</url>
+<url>
+<loc>https://app.kibble.exchange/launchpad</loc>
+</url>
+<url>
+<loc>https://app.kibble.exchange/staking</loc>
+</url>
+<url>
+<loc>https://app.kibble.exchange/liquidity/provide</loc>
+</url>
+</urlset>

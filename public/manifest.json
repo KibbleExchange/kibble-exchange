@@ -1,0 +1,39 @@
+{
+  "short_name": "Kibble - Your Premier DeFi Hub on TON Blockchain",
+  "name": "Kibble - Your Premier DeFi Hub on TON Blockchain",
+  "description": "Kibble is the comprehensive DeFi Hub that provides everything you need for the best trading experience and optimal advances on The Open Network (TON). With the combination of Kibble launchpad and wallet, we establish a benchmark for user experience, safety, and seamless navigation into the DeFi realm.",
+  "icons": [
+    {
+      "src": "https://app.kibble.exchange/favicon.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://app.kibble.exchange/logo16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://app.kibble.exchange/logo32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://app.kibble.exchange/Logo200.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://app.kibble.exchange/Logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "homepage_url": "https://app.kibble.exchange/",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "url": "https://app.kibble.exchange",
+  "iconUrl": "https://app.kibble.exchange/icon-bot.png"
+}
